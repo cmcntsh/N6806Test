@@ -1,1 +1,1 @@
-document.write('<h1 class = "top-line">Site Title Here</h1>');
+document.write('<h1 class = "top-line">Site Title Is Changeable</h1>');
